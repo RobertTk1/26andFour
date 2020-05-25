@@ -1,5 +1,4 @@
-# First-website
-First website following a tutorial
+# Practice-site
 
 This website was built using html and css(including animation
 )
